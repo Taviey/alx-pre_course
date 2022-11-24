@@ -1,1 +1,1 @@
-my second readme
+my first readme as an ALX SE student
